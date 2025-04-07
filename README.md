@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Anant+👋;Full+Stack+Developer+🧑‍💻;I+love+building+cool+web+apps+🚀" />
+# 👋 Hello, I’m Anant
 
-- 👋 Hi, I’m @Anant-ui
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+🧑‍💻;Loves+to+build+web+apps+🚀)
 - 💻 I’m currently working on something cool 😉 ;
 - 💞️ I’m looking to collaborate on Open-Source Projects ;
 
