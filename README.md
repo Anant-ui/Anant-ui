@@ -2,7 +2,8 @@
 - 💻 I’m currently working on something cool 😉 ;
 - 💞️ I’m looking to collaborate on Open-Source Projects ;
 
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400"/>
+<img src="https://assets9.lottiefiles.com/temp/lf20_tUrEqM.gif" width="400"/>
+
 
 
 
