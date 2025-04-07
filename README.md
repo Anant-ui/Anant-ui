@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Anant-ui
 - 💻 I’m currently working on something cool 😉 ;
 - 💞️ I’m looking to collaborate on Open-Source Projects ;
-<img src="https://assets9.lottiefiles.com/temp/lf20_tUrEqM.gif" width="400"/>
+<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
+
 
 
 
