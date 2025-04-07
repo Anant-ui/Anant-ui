@@ -1,7 +1,8 @@
+<img src="https://readme-hero.vercel.app/api?username=Anant-ui&text=Full+Stack+Dev+🧑‍💻&fontSize=40" />
 - 👋 Hi, I’m @Anant-ui
 - 💻 I’m currently working on something cool 😉 ;
 - 💞️ I’m looking to collaborate on Open-Source Projects ;
-<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
+
 
 
 
