@@ -2,8 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+🧑‍💻;Loves+to+build+web+apps+🚀)
 - 💻 I’m currently working on something cool 😉 ;
-- 💞️ I’m looking to collaborate on Open-Source Projects ;
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+- 💞️ I’m looking to collaborate on Open-Source Projects ;         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
 
 
 
